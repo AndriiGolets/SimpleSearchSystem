@@ -1,0 +1,52 @@
+h3 {
+    font-size: 18px;
+    font-family: arial,sans-serif;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: left;
+    white-space: nowrap;
+    font-weight: normal;
+    margin: 0;
+
+}
+
+._Rm {
+    font-size: 14px;
+    color: #006621;
+    font-style: normal;
+    white-space: nowrap;
+    line-height: 16px;
+    font-family: arial,sans-serif;
+    text-align: left;
+    font-weight: normal;
+}
+
+.st {
+    line-height: 1.4;
+    word-wrap: break-word;
+    color: #545454;
+    font-size: small;
+    font-family: arial,sans-serif;
+    text-align: left;
+    font-weight: normal;
+}
+
+
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.centered {
+    margin: auto;
+    top: 20px;
+    width: 50%;
+    text-align: center;
+}
+
+.blue-text {
+    color: #204d74;
+}
+
